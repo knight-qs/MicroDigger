@@ -2,7 +2,7 @@
 
 ![image](https://github.com/knight-qs/MicroDigger/blob/main/fig/moddel.jpg)
 <br><br>
-![image](https://github.com/knight-qs/MicroDigger/blob/main/fig/itols.jpg)
+![image](https://github.com/knight-qs/MicroDigger/blob/main/fig/itols.png)
 <br><br>
 ![image](https://github.com/knight-qs/MicroDigger/blob/main/fig/taxo_bar.png)
 <br><br>
