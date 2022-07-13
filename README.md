@@ -4,7 +4,7 @@
 <br><br>
 ![image](https://github.com/knight-qs/MicroDigger/blob/main/fig/itols.jpg)
 <br><br>
-![image](https://github.com/knight-qs/MicroDigger/blob/main/fig/taxo_bar.jpg)
+![image](https://github.com/knight-qs/MicroDigger/blob/main/fig/taxo_bar.png)
 <br><br>
 ![image](https://github.com/knight-qs/MicroDigger/blob/main/fig/sankey_T.jpg)
 <br><br>
